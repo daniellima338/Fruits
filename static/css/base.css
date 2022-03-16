@@ -1,0 +1,10 @@
+.home-page-image {
+    background: url('/media/homepage.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: calc(100vh - 164px);
+    z-index: -99;
+}
+
+.header-container {
+    padding-top: 164px;
+}
